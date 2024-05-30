@@ -1,0 +1,20 @@
+name: fluxui
+description: "Flux UI is a Flutter library for creating user interfaces that are declarative and reactive."
+# Remove below line if you wish to publish to pub.dev
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true

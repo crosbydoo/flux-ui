@@ -1,6 +1,6 @@
-# fluxui
+# FLUX UI
 
-A new Flutter project.
+A Flutter app with a minimal UI
 
 ## Getting Started
 
